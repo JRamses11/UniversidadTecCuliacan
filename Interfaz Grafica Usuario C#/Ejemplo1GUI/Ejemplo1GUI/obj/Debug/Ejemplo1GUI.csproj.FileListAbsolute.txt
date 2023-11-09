@@ -1,0 +1,10 @@
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\bin\Debug\Ejemplo1GUI.exe.config
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\bin\Debug\Ejemplo1GUI.exe
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\bin\Debug\Ejemplo1GUI.pdb
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\obj\Debug\Ejemplo1GUI.csproj.AssemblyReference.cache
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\obj\Debug\Ejemplo1GUI.Form1.resources
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\obj\Debug\Ejemplo1GUI.Properties.Resources.resources
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\obj\Debug\Ejemplo1GUI.csproj.GenerateResource.cache
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\obj\Debug\Ejemplo1GUI.csproj.CoreCompileInputs.cache
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\obj\Debug\Ejemplo1GUI.exe
+C:\Programas C#\Ejemplo1GUI\Ejemplo1GUI\obj\Debug\Ejemplo1GUI.pdb
