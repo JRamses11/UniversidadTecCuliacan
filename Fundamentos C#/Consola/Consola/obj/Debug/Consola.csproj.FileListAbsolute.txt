@@ -1,0 +1,7 @@
+C:\Users\PC\source\repos\Consola\Consola\bin\Debug\Consola.exe.config
+C:\Users\PC\source\repos\Consola\Consola\bin\Debug\Consola.exe
+C:\Users\PC\source\repos\Consola\Consola\bin\Debug\Consola.pdb
+C:\Users\PC\source\repos\Consola\Consola\obj\Debug\Consola.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\Consola\Consola\obj\Debug\Consola.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\Consola\Consola\obj\Debug\Consola.exe
+C:\Users\PC\source\repos\Consola\Consola\obj\Debug\Consola.pdb

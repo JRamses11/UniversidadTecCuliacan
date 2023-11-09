@@ -1,0 +1,14 @@
+C:\Users\PC\source\repos\ConsolaNomina\ConsolaNomina\obj\Debug\ConsolaNomina.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\ConsolaNomina\ConsolaNomina\obj\Debug\ConsolaNomina.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\ConsolaNomina\ConsolaNomina\bin\Debug\ConsolaNomina.exe.config
+C:\Users\PC\source\repos\ConsolaNomina\ConsolaNomina\bin\Debug\ConsolaNomina.exe
+C:\Users\PC\source\repos\ConsolaNomina\ConsolaNomina\bin\Debug\ConsolaNomina.pdb
+C:\Users\PC\source\repos\ConsolaNomina\ConsolaNomina\obj\Debug\ConsolaNomina.exe
+C:\Users\PC\source\repos\ConsolaNomina\ConsolaNomina\obj\Debug\ConsolaNomina.pdb
+C:\Programas C#\ConsolaNomina\ConsolaNomina\bin\Debug\ConsolaNomina.exe.config
+C:\Programas C#\ConsolaNomina\ConsolaNomina\bin\Debug\ConsolaNomina.exe
+C:\Programas C#\ConsolaNomina\ConsolaNomina\bin\Debug\ConsolaNomina.pdb
+C:\Programas C#\ConsolaNomina\ConsolaNomina\obj\Debug\ConsolaNomina.csproj.AssemblyReference.cache
+C:\Programas C#\ConsolaNomina\ConsolaNomina\obj\Debug\ConsolaNomina.csproj.CoreCompileInputs.cache
+C:\Programas C#\ConsolaNomina\ConsolaNomina\obj\Debug\ConsolaNomina.exe
+C:\Programas C#\ConsolaNomina\ConsolaNomina\obj\Debug\ConsolaNomina.pdb
