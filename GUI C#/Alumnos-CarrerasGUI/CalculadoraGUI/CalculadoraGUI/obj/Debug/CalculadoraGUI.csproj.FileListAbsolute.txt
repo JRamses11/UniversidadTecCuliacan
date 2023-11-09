@@ -1,0 +1,10 @@
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\bin\Debug\CalculadoraGUI.exe.config
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\bin\Debug\CalculadoraGUI.exe
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\bin\Debug\CalculadoraGUI.pdb
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\obj\Debug\CalculadoraGUI.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\obj\Debug\CalculadoraGUI.frmPrincipal.resources
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\obj\Debug\CalculadoraGUI.Properties.Resources.resources
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\obj\Debug\CalculadoraGUI.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\obj\Debug\CalculadoraGUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\obj\Debug\CalculadoraGUI.exe
+C:\Users\PC\source\repos\CalculadoraGUI\CalculadoraGUI\obj\Debug\CalculadoraGUI.pdb
