@@ -1,0 +1,16 @@
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\bin\Debug\CitasMedicasGUI.exe.config
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\bin\Debug\CitasMedicasGUI.exe
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\bin\Debug\CitasMedicasGUI.pdb
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.csproj.AssemblyReference.cache
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.frmClinicaMedica.resources
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.Properties.Resources.resources
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.csproj.GenerateResource.cache
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.csproj.CoreCompileInputs.cache
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.exe
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.pdb
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.frmConsultaTotalMedicos.resources
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.frmClinica_Medica.resources
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.frmConsultaIndividualCitas.resources
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.frmConsultaTotalCitas.resources
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\bin\Debug\LibreriaBD.dll
+C:\Users\PC\source\repos\CitasMedicasGUI\CitasMedicasGUI\obj\Debug\CitasMedicasGUI.csproj.CopyComplete
