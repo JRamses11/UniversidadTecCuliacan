@@ -1,0 +1,26 @@
+{
+  "name": "crudnodejs",
+  "version": "1.0.0",
+  "description": "API Sistema de maestros",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "keywords": [
+    "API",
+    "Maestros",
+    "PW"
+  ],
+  "author": "ING. ALDAMA CAZARES JOSE RAMSES",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.2",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-myconnection": "^1.0.4",
+    "mysql": "^2.18.1",
+    "nodemon": "^3.0.1"
+  }
+}
