@@ -1,0 +1,108 @@
+body{
+    font-size: 16px; /*1em*/
+    margin: 0px auto;
+    max-width: 1024px; /*CLIENTE*/
+}
+header article{
+    display: inline-block;
+}
+header article nav{
+    margin-top: 60px;
+}
+header nav ul{
+    padding-left: 0px;
+}
+header nav ul li{
+    display: inline-block;    
+    margin-right: 20px;
+
+}
+hr{
+    color: #949494;
+}
+footer article{
+    display: inline-block;
+    vertical-align: top;
+    width: 18%;
+}
+footer article ul li{
+    list-style: none;
+    margin-left: -39px;
+}
+section article{
+    display: inline-block;
+}
+section article p{
+    font-size: 4em;
+}
+#articleLogos img{
+    width: 35px;
+    height: 35px;
+}
+#sec01 article{
+    display: inline-block;
+    vertical-align: top;
+    margin-top: 10px;
+}
+#sec01art01{
+    margin-left: 10px;
+    width: 50%;
+}
+#sec01art01 p{
+    margin: 20px;
+}
+#sec02{
+    display: flex;
+    align-items: center;
+}
+#firstBike{
+    margin-top: 30px;
+}
+#imgBike{
+    width: 375px;
+    height: 600px;
+}
+#imgFiveyears{
+    position: relative;
+    margin-left: -360px;
+    height: 80px;
+    top: -21px;
+}
+#imgVideo01{
+    width: 270px;
+    height: 170px;
+}
+#imgVideo02{
+    width: 270px;
+    height: 170px;
+}
+#sec01{
+    height: 600px;
+}
+#sec02{
+    height: 100px;
+}
+#sec01art01{
+    width: 550px;
+    height: 600px;
+    margin: 30px 0px;
+}
+#sec01art02{
+    height: 600px;
+}
+.hr-punteada{
+    border-style: dashed;
+}
+.hr-solid{
+    border-style: solid;
+}
+.letra-verde{
+    color: chartreuse;
+}
+.letra-gris{
+    color: #949494;
+}
+.nito{
+    font-weight: bold;
+}
+

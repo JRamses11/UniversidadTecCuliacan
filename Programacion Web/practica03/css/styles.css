@@ -1,0 +1,96 @@
+/*PALETADECOLORES.ONLINE*/
+body{
+    font-size: 16px; /*1em*/
+    margin: 0px auto;
+    max-width: 1024px; /*CLIENTE*/
+}
+footer article{
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px;
+    vertical-align: top;
+    width: 31.1%;
+}
+footer img{
+    width: 300px;
+}
+header nav ul li{
+    /*border: 1px solid blue;*/
+    display: inline-block;
+    padding: 8px 14px;
+    text-align: center;
+    width: 17%;
+}
+header ul{
+    margin-left: -39.5px;
+}
+header input{
+    padding-left: 50px;
+    width: 110px;
+}
+header nav ul li:nth-child(2){
+    background: #849c3c;
+}
+header nav ul li:nth-child(3){
+    background: #353535;
+}
+header nav ul li:nth-child(4){
+    background: #D33040;
+}
+header nav ul li:nth-child(5){
+    background: lightgray;
+}
+hr{
+    border-style: dashed;
+    color: #949494;
+}
+section, footer{
+    background: #2c2c2c;
+}
+section article{
+    display: inline-block;
+    height: 280px;
+    padding: 18px 8px; /*para darle sangria el texto a los articles*/
+    vertical-align: top;
+    width: 18.2%;
+
+}
+section article:nth-child(2){
+    background: #849c3c;
+}
+section article:nth-child(3){
+    background: #353535;
+}
+section article:nth-child(4){
+    background: #D33040;
+}
+section article:nth-child(5){
+    background: lightgray;
+}
+section article img{
+    width: 150px;
+}
+section article ul{
+    list-style: none;
+}
+section article ul li{
+    margin-bottom: 10px;
+}
+.letra-azul{
+    color: lightblue;
+}
+.letra-blanca{
+    color: white;
+}
+.letra-gris{
+    color: #949494;
+}
+.read-more{
+    margin-left: 220px;
+}
+.tan-menu-lateral{
+    font-size: 1.1em ;
+}
+.tam-tarjeta{
+    font-size: 1.7em;
+}

@@ -1,0 +1,130 @@
+body{
+    font-size: 16px; /*1em*/
+    margin: 0px auto;
+    max-width: 1024px; /*CLIENTE*/
+}
+header{
+    width: 100%;
+    height: 50px;
+    background-color: black;
+}
+header article{
+    display: inline-block;
+    align-items: center;
+    height: 50px;
+    width: 49%;
+}
+header article span{
+    margin-left: 50px;
+}
+header article button{
+    position: relative;
+    top: -10px;
+    margin-right: 15px;
+    padding: 5px 15px;
+    color: white;
+}
+header article span{
+    position: relative;
+    top: -15px;
+}
+section article{
+    display: inline-block;
+    width: 48%;
+}
+section article img{
+    vertical-align: top;
+    width: 70px;
+    height: 70px;
+    padding: 0px, 0px;
+}
+section input{
+    width: 450px; 
+    height: 13px; 
+    font-size: 1em; 
+    padding: 10px;
+}
+footer{
+    height: 250px;
+    background: black;
+}
+footer article{
+    display: inline-block;
+    height: 200px;
+    width: 18%;
+}
+footer article{
+    color: white;
+}
+footer article ul li{
+    color: #f0eded;
+    font-size: 12px;
+    list-style: none;
+    margin-left: -39px;
+}
+footer p{
+    font-size: 1em;
+}
+#sec01{
+    text-align: center;
+    height: 230px;
+    background-color: #dcdcef;
+}
+#sec01 p{
+    font-size: 3.5em;
+    margin-top: 20px;
+    margin-bottom: 15px;
+}
+#sec02{
+    height: 500px;
+}
+#sec02art01{
+    height: 438px;
+}
+#sec02art01 table{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+#sec02art02 table{
+    margin-right: 100px;
+    margin-left: 40px;
+}
+#art-botones{
+    text-align: right;
+}
+#footerArt01{
+    margin-left: 50px;
+}
+#footerArt01, #footerArt02, #footerArt03{
+    vertical-align: top;
+}
+#footerArt05{
+    vertical-align: sub;
+}
+#footerArt05 img{
+    height: 40px;
+    width: 40px;
+}
+#btnSubmit{
+    background-color: black;
+    border-radius: 1px solid white;
+}
+#btnSign{
+    position: relative;
+    background-color: #5062c5;
+}
+#imgLogoA{
+    position: relative;
+    left: 50px;
+    height: 40px;
+    width: 40px;
+}
+.letra-blanca{
+    color: white;
+}
+.nito{
+    font-weight: bold;
+}
+.letra-azul{
+    color: #5062c5 ;
+}

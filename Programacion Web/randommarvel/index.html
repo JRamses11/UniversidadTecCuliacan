@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Generador personajes de Marvel</title>
+</head>
+<body>
+    <label for="txtpersonaje">Personajes aleatorias: </label>
+    <input type="text" id="txtpersonaje">
+    <br>
+    <button onclick="apimarvel();">
+        Random character
+    </button>
+    <p></p>
+    <article id="caja">
+        <br>
+        <img src="" alt="" id="foto"> <br>
+        <span id="nombre"></span> <br>
+        <span id="descripcion"></span>
+        <p>Comics Disposibles: <span id="comicsDis"></span></p>
+    </article>
+    <button onclick="anterior();"><---Anterior</button>
+    <button onclick="siguiente();">Siguiente---></button>
+    <script src="randommarvel.js"></script>
+</body>
+</html>

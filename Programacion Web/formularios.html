@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <form action="paginaprocesa.html" method="post">
+         <input type="text" name="nombre" placeholder="Nombre">
+         <br>
+         <input type="password" name="clave" placeholder="Clave">
+         <br>
+         <input type="number" name="numero" value="10">
+         <br>
+         <input type="email" name="correo" placeholder="Correo">
+         <br>
+         <p>Botones de radio</p>
+         <input type="radio" name="botonRadio" value="HTML"> HTML
+         <input type="radio" name="botonRadio" value="CSS"> CSS
+         <input type="radio" name="botonRadio" value="JS"> JS
+         <p>Botones de chequeo</p>
+         <input type="checkbox" name="botonCheck1" value="HTML"> HTML
+         <input type="checkbox" name="botonCheck2" value="CSS"> CSS
+         <input type="checkbox" name="botonCheck3" value="JS"> JS
+         <p></p>
+         <br>
+          <input type="button" value="Click aqui">
+         <br>
+         Subir archivo <br>
+         <input type="file" name="archivo">
+         <br>
+         Buscar algo <br>
+         <input type="search" name="buscar">
+         <br>
+         Fecha corta <br>
+         <input type="date" name="fechacorta" value="2023-11-06">
+         <br>
+         Fecha larga <br>
+         <input type="datetime-local" name="fechaLarga" value="2023-11-06T12:47:00.00">
+         <br>
+         <input type="week" name="semana">
+         <br>
+         <input type="month" name="mes">
+         <br>
+         <textarea name="texto" cols="30" rows="10"></textarea>
+         <br>
+         <select name="opciones">
+            <option value="-1" disabled selected>Selecciona una opcion</option>
+            <option value="HTML">HTML</option>
+            <option value="CSS">CSS</option>
+            <option value="JS">JS</option>
+         </select>
+         <p></p>
+         <input type="submit" value="Enviar datos">
+         <input type="reset" value="Borrar datos">
+    </form>
+</body>
+</html>
